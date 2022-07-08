@@ -1,3 +1,4 @@
 # React Tooltip Component
 
-In this mini app I will create tooltip component with react js. 
+In this mini app I have created a tooltip which can have different positions according to the user's preferences. 
+For this I have created different classes to use it easily.
